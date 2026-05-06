@@ -23,7 +23,7 @@ GROUP BY
     sd.skills
 ORDER BY  
     count(jpf.*) DESC
-LIMIT 15;
+LIMIT 10;
 
 /*
 SQL and Python dominate by a wide margin → They’re essentially non-negotiable core skills for remote data analyst roles. SQL especially is far ahead, meaning querying and working with databases is the foundation of the role.
